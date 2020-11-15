@@ -1,0 +1,29 @@
+{
+  "name": "2-Factor-Authentication-Using-Node.Js-and-Speakeasy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratik-iiitkalyani/2-Factor-Authentication-Using-Node.Js-and-Speakeasy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratik-iiitkalyani/2-Factor-Authentication-Using-Node.Js-and-Speakeasy/issues"
+  },
+  "homepage": "https://github.com/pratik-iiitkalyani/2-Factor-Authentication-Using-Node.Js-and-Speakeasy#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-json-db": "^1.1.0",
+    "speakeasy": "^2.0.0",
+    "uuid": "^8.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
